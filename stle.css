@@ -1,0 +1,13 @@
+.div-01{
+    border:solid; 
+    border-right: double;
+    border-width: 5px;
+    border-bottom: dotted;
+    border-color: red;
+} 
+
+.div-02{
+    border: solid 2px blue;
+border-radius: 50%;
+margin-top:  100px;;
+}
